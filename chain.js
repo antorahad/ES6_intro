@@ -33,4 +33,6 @@ const user = {
 
 console.log(user.address.street.second);
 
+
+//optional chain access
 //console.log(user.address.town?.street.second);
