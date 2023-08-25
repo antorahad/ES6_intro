@@ -1,4 +1,6 @@
-const x = '';
+let x = {
+
+};
 
 if(x){
     console.log('sotto');
@@ -6,4 +8,10 @@ if(x){
 
 else{
     console.log('mitha');
+}
+
+const y = '';
+
+if(!y){
+    console.log('falsy')
 }
